@@ -11,7 +11,7 @@ import logos from './luxuryCarLogos.js';
 import animals from './animals.js';
 
 app.use(cors({
-  origin: ['http://localhost:5173'],
+  origin: ['http://localhost:5173', 'https://justinbansal.github.io'],
   methods: ['GET'],
 }));
 app.use(express.static(path.join(__dirname, 'public')));
