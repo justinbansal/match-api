@@ -1,4 +1,5 @@
 import express from 'express';
+import path from 'path';
 import cors from 'cors';
 const app = express();
 const port = 3000;
@@ -8,7 +9,7 @@ import animals from './animals.js';
 
 app.use(cors());
 
-app.use(express.static('public'));
+app.use(express.static(path.join(__dirname, 'public')));
 
 function limitMiddleware(req, res, next) {
   let maxItems = req.query.limit || 5;
