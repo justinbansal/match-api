@@ -1,51 +1,51 @@
 const logos = [
   {
     name: "Mercedes",
-    url: "/images/mercedes.jpg"
+    url: "/images/mercedes.webp"
   },
   {
     name: "Audi",
-    url: "/images/audi.jpg"
+    url: "/images/audi.webp"
   },
   {
     name: "BMW",
-    url: "/images/bmw.jpg"
+    url: "/images/bmw.webp"
   },
   {
     name: "Porsche",
-    url: "/images/porsche.jpeg"
+    url: "/images/porsche.webp"
   },
   {
     name: "Lamborghini",
-    url: "/images/lamborghini.jpg"
+    url: "/images/lamborghini.webp"
   },
   {
     name: "Aston Martin",
-    url: "/images/aston-martin.jpg"
+    url: "/images/aston-martin.webp"
   },
   {
     name: "Lexus",
-    url: "/images/lexus.jpg"
+    url: "/images/lexus.webp"
   },
   {
     name: "Cadillac",
-    url: "/images/cadillac.jpg"
+    url: "/images/cadillac.webp"
   },
   {
     name: "Bentley",
-    url: "/images/bentley/jpg"
+    url: "/images/bentley.webp"
   },
   {
     name: "Maybach",
-    url: "/images/maybach.jpeg"
+    url: "/images/maybach.webp"
   },
   {
     name: "Maserati",
-    url: "/images/maserati/jpg"
+    url: "/images/maserati.webp"
   },
   {
     name: "Ferrari",
-    url: "/images/ferrari/jpg"
+    url: "/images/ferrari.webp"
   }
 ]
 

@@ -1,16 +1,16 @@
 const animals = [
-  { name: 'Cat', url: '/images/cat.jpg'},
-  { name: 'Dog', url: '/images/dog.jpg'},
-  { name: 'Lion', url: '/images/lion.jpg'},
-  { name: 'Monkey', url: '/images/monkey.jpg'},
-  { name: 'Sheep', url: '/images/sheep.jpg'},
-  { name: 'Crocodile', url: '/images/crocodile.jpg'},
-  { name: 'Alligator', url: '/images/alligator.jpg'},
-  { name: 'Fox', url: '/images/fox.jpg'},
-  { name: 'Bear', url: '/images/bear.jpg'},
-  { name: 'Bird', url: '/images/bird.jpg'},
-  { name: 'Rabbit', url: '/images/rabbit.jpg'},
-  { name: 'Horse', url: '/images/horse.jpg'},
+  { name: 'Cat', url: '/images/cat.webp'},
+  { name: 'Dog', url: '/images/dog.webp'},
+  { name: 'Lion', url: '/images/lion.webp'},
+  { name: 'Monkey', url: '/images/monkey.webp'},
+  { name: 'Sheep', url: '/images/sheep.webp'},
+  { name: 'Crocodile', url: '/images/crocodile.webp'},
+  { name: 'Alligator', url: '/images/alligator.webp'},
+  { name: 'Fox', url: '/images/fox.webp'},
+  { name: 'Bear', url: '/images/bear.webp'},
+  { name: 'Bird', url: '/images/bird.webp'},
+  { name: 'Rabbit', url: '/images/rabbit.webp'},
+  { name: 'Horse', url: '/images/horse.webp'},
 ]
 
 export default animals;
